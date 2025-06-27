@@ -49,4 +49,4 @@
 
 ### 📸 앱 화면 (예정)
 
-screenshot/MainScreen.png
+[screenshot/MainScreen.png](https://github.com/JustDoIt-Lee/iShare/blob/main/screenshot/MainScreen.png)

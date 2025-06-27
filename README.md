@@ -47,6 +47,8 @@
 
 ---
 
-### 📸 앱 화면 (예정)
+### 📸 앱 화면 미리보기
 
-[screenshot/MainScreen.png](https://github.com/JustDoIt-Lee/iShare/blob/main/screenshot/MainScreen.png)
+<p align="center">
+  <img src="https://github.com/JustDoIt-Lee/iShare/blob/main/screenshot/MainScreen.png?raw=true" width="700"/>
+</p>

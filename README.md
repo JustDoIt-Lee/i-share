@@ -49,4 +49,6 @@
 
 ### 📸 앱 화면 (예정)
 
-> 스크린샷이나 Figma 이미지 들어갈 자리
+<p align="center">
+  <img src="https://github.com/JustDoIt-Lee/iShare/blob/main/screenshots/MainScreen.png?raw=true" width="700"/>
+</p>

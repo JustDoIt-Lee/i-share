@@ -6,7 +6,7 @@
 
 ### 📌 프로젝트 개요
 
-- **진행 기간**: 2024.05 ~ 현재 (리팩토링 진행 중)
+- **진행 기간**: 2024.04 ~ 현재 (리팩토링 진행 중)
 - **역할**: 기획 100% / UIUX 설계 / Android 앱 개발
 - **핵심 기술 스택**: Kotlin, Jetpack Compose, ViewModel, Hilt, StateFlow
 

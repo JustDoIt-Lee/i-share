@@ -50,5 +50,5 @@
 ### 📸 앱 화면 미리보기
 
 <p align="center">
-  <img src="https://github.com/JustDoIt-Lee/iShare/blob/main/screenshot/MainScreen.png?raw=true" width="700"/>
+  <img src="https://github.com/JustDoIt-Lee/iShare/blob/main/screenshot/iShare.png?raw=true" width="500"/>
 </p>

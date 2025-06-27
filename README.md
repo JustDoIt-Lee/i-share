@@ -49,4 +49,4 @@
 
 ### 📸 앱 화면 미리보기
 
-![iShare](https://raw.githubusercontent.com/JustDoIt-Lee/iShare/main/screenshot/iShare.png)
+<img src="https://raw.githubusercontent.com/JustDoIt-Lee/iShare/main/screenshot/iShare.png" width="700"/>

@@ -49,7 +49,7 @@ app/
 ├── viewmodel/      # ViewModel 계층
 ├── util/           # 공통 유틸 함수들
 └── di/             # Hilt 의존성 주입 설정
-
+'''
 ---
 
 ### 🔄 현재 상태

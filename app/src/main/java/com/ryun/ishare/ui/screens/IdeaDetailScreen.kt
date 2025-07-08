@@ -1,4 +1,3 @@
-/*
 package com.ryun.ishare.ui.screens
 
 import androidx.compose.foundation.*
@@ -1806,4 +1805,3 @@ fun DetailEditIdeaDialog(
         }
     }
 }
- */

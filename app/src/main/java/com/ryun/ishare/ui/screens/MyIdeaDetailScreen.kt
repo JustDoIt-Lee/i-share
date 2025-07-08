@@ -1,4 +1,3 @@
-/*
 package com.ryun.ishare.ui.screens
 
 import android.util.Log
@@ -1746,4 +1745,3 @@ fun MyDetailEditIdeaDialog(
         }
     }
 }
- */

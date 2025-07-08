@@ -1,1 +1,27 @@
-/build
+# ===================== #
+# Android 프로젝트 무시 #
+# ===================== #
+
+# Android build
+.gradle/
+**/build/
+
+# IDE 설정
+.idea/
+*.iml
+
+# 로컬 환경 설정
+local.properties
+
+# 로그, 배포 파일
+*.log
+*.apk
+
+# macOS 시스템 파일
+.DS_Store
+
+# Windows thumbnail DB
+Thumbs.db
+
+# 기타
+*.keystore

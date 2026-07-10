@@ -54,6 +54,19 @@ app/
 ```
 ---
 
+### 🏗️ 아키텍처 (MVVM)
+
+```mermaid
+flowchart TD
+    UI["UI Layer<br>Jetpack Compose"] --> VM["ViewModel<br>StateFlow"]
+    VM --> REPO["Repository<br>IdeaRepository"]
+    REPO --> MODEL["Model<br>Idea · User"]
+    DI["Hilt DI"] -.->|"주입"| VM
+    DI -.->|"주입"| REPO
+```
+
+---
+
 ### 🔄 현재 상태
 
 > ✅ 핵심 기능 중심의 MVP 완성  
